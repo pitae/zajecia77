@@ -22,8 +22,8 @@
                 <constraints primaryKey="true"/>
             </column>
             <column name="description" type="varchar(255)"/>
-            <column name="startDate" type="DATE"/>
-            <column name="endDate" type="DATE"/>
+            <column name="start_Date" type="DATE"/>
+            <column name="end_Date" type="DATE"/>
             <column name="status" type="varchar(255)"/>
 
         </createTable>
